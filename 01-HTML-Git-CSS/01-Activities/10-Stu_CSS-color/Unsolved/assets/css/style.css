@@ -1,31 +1,27 @@
 .section {
-    width: 150px;
+    width: 200px;
     height: 200px;
 }
   
 .section-blue {
   color: green;
   background-color: yellow;
-
 }
   
 .container {
   color: red;
   background-color: black;
-
 }
 
 #section-1 {
   color: gray;
   background-color: blue;
-
 }
 
 #section-1 {
   color: gray;
   background-color: blue;
-
 }
 #section-6 {
-
+  color: pink;
 }
