@@ -10,6 +10,7 @@ h2 {
 ul {
   text-align: right;
   color: #ffffff;
+  margin: auto;
 }
 
 /* List items in navigation bar */
@@ -17,28 +18,35 @@ li {
   /* TODO: Add your code here */
   list-style-type: none;
   font-size: 40px;
+  font-weight: bolder;
+  display: inline;
 }
 
 /* Boxes */
 img {
-  /* TODO: Add your code here */
+  /* aligned image to center */
   margin: 0 auto;
+  display: block;
+  align-items: center;
 }
 
 #item-1 {
   background-color: #e0115f;
+  display: inline;
 }
 
 #item-2 {
   background-color: #0000ff;
+  display: inline;
 }
 
 #item-3 {
   background-color: #999900;
+  display: inline;
 }
 
 /* Box 3 */
 #image-3 {
-  /* TODO: Add your code here */
-  display: none;
+  /* changed display to block */
+display: block;
 }

@@ -1,19 +1,23 @@
 /* TODO: Add typography */
 .section {
+    font-family: Lucida Sans;
     background-color: #fffacd;
 }
 
-/* Fact 1 */
+/* font weight bold */
 #fact-1 {
   font-weight: bolder;
+  font-weight: bold;
 }
 
-/* TODO: Fact 2 */
+/* font size changed to 24px*/
 #fact-2 {
+  font-size: 24px;
 
 }
 
-/* TODO: Fact 3 */
+/* line hight 50px */
 #fact-3 {
+  line-height: 50px;
   
 }
