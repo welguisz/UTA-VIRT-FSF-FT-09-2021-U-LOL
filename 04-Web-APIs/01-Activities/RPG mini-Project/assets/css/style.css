@@ -1,0 +1,45 @@
+body{
+    background-color: azure;
+}
+header{
+    width: 100%;
+    height: 500px;
+    background-image:url("../images/RoboTeam.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+}
+
+main{
+    text-align: center;
+}
+
+
+#title{
+    /* font-size: 25px; */
+    position:absolute;
+    top:450px;
+    left:0;
+
+   
+}
+
+#title span{
+    color: white; 
+   font: bold 45px Helvetica, Sans-Serif; 
+   letter-spacing: -1px;  
+   background: rgb(0, 0, 0); /* fallback color */
+   background: rgba(0, 0, 0, 0.7);
+   padding: 10px; 
+}
+
+#startBtn{
+    font-size: 25px;
+    background-color: aqua;
+    color:white;
+    margin-top: 100px;
+    border-radius: 5px;
+}
+
