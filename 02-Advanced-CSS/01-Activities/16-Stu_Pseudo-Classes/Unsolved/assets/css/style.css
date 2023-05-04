@@ -103,3 +103,18 @@ footer {
     text-align: center;
   }
 }
+
+.resources{
+  display: flex;
+  justify-content: space-between;
+}
+.resources ul{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  visibility: visible;
+}
+.resources a{
+ text-decoration: none;
+}
+h3 a:hover

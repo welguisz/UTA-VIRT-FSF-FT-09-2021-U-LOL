@@ -1,19 +1,21 @@
 .section {
-  background-color: lemonchiffon;
+  background-color: gold;
 }
 
-.headers {
-  color: darkblue;
+#headers {
+  color: rgb(11, 12, 12);
 }
 
-#email {
-  background-color: goldenrod;
+#EMAIL {
+    background-color: rgb(77, 250, 9);
 }
 
-#github {
-  background-color: lightsteelblue
+#GITHUB {
+      background-color: rgb(31, 8, 240)
 }
-
-#portfolio {
-  background-color: darkorange;
+#LINKEDIN{
+  background-color: hotpink;
+}
+#PORTFOLIO {
+       background-color: rgb(243, 16, 16);
 }
